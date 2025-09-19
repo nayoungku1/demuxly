@@ -1,4 +1,4 @@
-# DEMUXLY: Single cell RNA-seq data demultiplexing algorithm
+# DEMUXLY 🧶: Single cell RNA-seq data demultiplexing algorithm
 --
 ## Setup
 ```bash
