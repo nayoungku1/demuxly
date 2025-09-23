@@ -1,11 +1,41 @@
 # DEMUXLY 🧶: Single cell RNA-seq data demultiplexing algorithm
 
-## Setup
+
+
+## Project Structure
+```
+demuxly/
+├── data/
+│   ├── pbmc_1k_v3_fastq/
+│   │   ├── pbmc_1k_v3_S1_L001_I1_001.fastq.gz
+│   │   ├── pbmc_1k_v3_S1_L001_R1_001.fastq.gz
+│   │   ├── ...
+│   │   └── pbmc_1k_v3_S1_L002_R2_001.fastq.gz
+│   └── sample_data/
+│       └── small_test.fa
+├── reference/
+│   ├── refdata-gex-GRCh38-2024-A/ - human reference genomes
+│   │   ├── fasta/
+│   │   │   ├── genome.fa
+│   │   │   └── genome.fai
+│   │   ├── genes/
+|   │   │   └──  genes.gtf
+│   │   └── star/
+│   └── STAR_index/
+├── results/
+│   └── output/
+├── yard/
+│   └── apps/
+│       └── cellranger-9.0.1/
+│       └── check_install/
+└── README.md
+```
+## Installation / Setup
+* Anaconda/Miniconda enviornment:
 ```bash
 conda env create -f environment.yml
 conda activate demuxly
 ```
-
 ## Sample Dataset
 * **Human Reference Genome** (GRCh38) - 2024-A:  
 ```bash
