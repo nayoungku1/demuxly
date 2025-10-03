@@ -1,0 +1,8 @@
+Category,num_cells,pct_cells,median_umis,stddev_umis
+No tag molecules,0,0.0,None,None
+No tag assigned,404,3.0,None,None
+1 tag assigned,12603,93.5,None,None
+More than 1 tag assigned,471,3.5,None,None
+CMO301,6511,48.3,3448.0,7982.1
+CMO302,6092,45.2,3520.5,5286.1
+CMO301|CMO302,471,3.5,12406.0,9557.8
