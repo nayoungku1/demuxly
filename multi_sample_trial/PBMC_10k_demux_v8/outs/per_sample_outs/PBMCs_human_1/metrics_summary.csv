@@ -1,0 +1,79 @@
+Category,Library Type,Grouped By,Group Name,Metric Name,Metric Value
+Cells,Gene Expression,,,Cells,"6,512"
+Cells,Gene Expression,,,Confidently mapped antisense,7.74%
+Cells,Gene Expression,,,Confidently mapped to exonic regions,58.51%
+Cells,Gene Expression,,,Confidently mapped to genome,94.48%
+Cells,Gene Expression,,,Confidently mapped to intergenic regions,3.54%
+Cells,Gene Expression,,,Confidently mapped to intronic regions,32.42%
+Cells,Gene Expression,,,Confidently mapped to transcriptome,82.60%
+Cells,Gene Expression,,,Mapped to genome,97.43%
+Cells,Gene Expression,,,Mean reads per cell,"33,205"
+Cells,Gene Expression,,,Median UMI counts per cell,"9,344"
+Cells,Gene Expression,,,Median genes per cell,"3,069"
+Cells,Gene Expression,,,Number of reads from cells called from this sample,"216,228,644"
+Cells,Gene Expression,,,Total genes detected,"29,948"
+Cells,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Cell-associated barcodes identified as multiplets,471 (3.49%)
+Cells,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Cell-associated barcodes not assigned any CMOs,406 (3.01%)
+Cells,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Cells assigned to other samples,"6,094 (45.20%)"
+Cells,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Cells assigned to this sample,"6,512 (48.30%)"
+Library,Gene Expression,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_1_gex,Number of reads,"187,388,717"
+Library,Gene Expression,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_1_gex,Number of short reads skipped,0
+Library,Gene Expression,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_1_gex,Q30 RNA read,91.4%
+Library,Gene Expression,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_1_gex,Q30 UMI,92.8%
+Library,Gene Expression,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_1_gex,Q30 barcodes,93.2%
+Library,Gene Expression,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_2_gex,Number of reads,"299,701,586"
+Library,Gene Expression,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_2_gex,Number of short reads skipped,0
+Library,Gene Expression,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_2_gex,Q30 RNA read,93.8%
+Library,Gene Expression,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_2_gex,Q30 UMI,94.4%
+Library,Gene Expression,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_2_gex,Q30 barcodes,95.7%
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Cell-associated barcodes identified as multiplets,471 (3.49%)
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Cell-associated barcodes not assigned any CMOs,406 (3.01%)
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Cells assigned to a sample,"12,606 (93.50%)"
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Confidently mapped antisense,7.90%
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Confidently mapped reads in cells,97.51%
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Confidently mapped to exonic regions,58.07%
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Confidently mapped to genome,93.94%
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Confidently mapped to intergenic regions,3.55%
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Confidently mapped to intronic regions,32.32%
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Confidently mapped to transcriptome,81.91%
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Estimated number of cells,"13,483"
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Mapped to genome,97.10%
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Mean reads per cell,"36,126"
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Number of reads,"487,090,303"
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Number of reads in the library,"487,090,303"
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Sequencing saturation,57.45%
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Valid UMIs,99.95%
+Library,Gene Expression,Physical library ID,Human_PBMC_10K_gex,Valid barcodes,98.36%
+Library,Multiplexing Capture,,,Cell-associated barcodes identified as multiplets,471 (3.49%)
+Library,Multiplexing Capture,,,Cells assigned to a sample,"12,606 (93.50%)"
+Library,Multiplexing Capture,,,Estimated number of cell-associated barcodes,"13,483"
+Library,Multiplexing Capture,,,Median CMO UMIs per cell,"3,609"
+Library,Multiplexing Capture,,,Number of samples assigned at least one cell,2
+Library,Multiplexing Capture,,,Singlet capture ratio,1.00
+Library,Multiplexing Capture,CMO Name,CMO301,CMO signal-to-noise ratio,4.44
+Library,Multiplexing Capture,CMO Name,CMO301,Cells assigned to CMO,51.66%
+Library,Multiplexing Capture,CMO Name,CMO301,Fraction reads in cell-associated barcodes,86.14%
+Library,Multiplexing Capture,CMO Name,CMO302,CMO signal-to-noise ratio,4.76
+Library,Multiplexing Capture,CMO Name,CMO302,Cells assigned to CMO,48.34%
+Library,Multiplexing Capture,CMO Name,CMO302,Fraction reads in cell-associated barcodes,78.47%
+Library,Multiplexing Capture,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_1_multiplexing_capture,Number of reads,"126,496,046"
+Library,Multiplexing Capture,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_1_multiplexing_capture,Number of short reads skipped,0
+Library,Multiplexing Capture,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_1_multiplexing_capture,Q30 RNA read,94.5%
+Library,Multiplexing Capture,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_1_multiplexing_capture,Q30 UMI,94.0%
+Library,Multiplexing Capture,Fastq ID,SC3_v3_NextGem_DI_CellPlex_Human_PBMC_10K_1_multiplexing_capture,Q30 barcodes,94.0%
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Cell-associated barcodes identified as multiplets,471 (3.49%)
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Cell-associated barcodes not assigned any CMOs,406 (3.01%)
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Cells assigned to a sample,"12,606 (93.50%)"
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Estimated number of cell-associated barcodes,"13,483"
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Fraction CMO reads,98.33%
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Fraction CMO reads usable,80.87%
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Fraction reads from multiplets,5.79%
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Fraction reads in cell-associated barcodes,82.70%
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Fraction unrecognized CMO,1.67%
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Mean reads per cell-associated barcode,"9,382"
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Median CMO UMIs per cell-associated barcode,"3,684"
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Number of reads,"126,496,046"
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Samples assigned at least one cell,2
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Sequencing saturation,5.44%
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Valid UMIs,99.99%
+Library,Multiplexing Capture,Physical library ID,Human_PBMC_10K_mult_capture,Valid barcodes,99.40%
